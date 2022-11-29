@@ -1,0 +1,21 @@
+body{
+    min-height: 2000px;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+.text-nav{
+    text-decoration: none;
+    color: #fff;
+}
+
+.jumbotron{
+    padding: 2rem 1rem;
+    background-color: #e2edff;
+}
+
+#projects{
+    background-color: #e2edff;
+}
